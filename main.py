@@ -2,6 +2,7 @@
 
 def main(msg):
 	##different comment
+	###print message
 	print(msg)
 
 main("Hello People!")
